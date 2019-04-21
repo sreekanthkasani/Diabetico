@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\DELL\\Desktop\\Desktop\\glucosio-android\\wear\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nl-rNL\\values-nl-rNL.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DELL\\Desktop\\Desktop\\glucosio-android\\wear\\src\\main\\res\\values-nl-rNL\\strings.xml",
+                    "from": {
+                        "startLines": "22,23,32,33,34,24,25,26,27,28,29,30,31,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "795,861,1406,1471,1539,925,987,1048,1107,1173,1237,1298,1353,1594",
+                        "endColumns": "64,62,63,66,53,60,59,57,64,62,59,53,51,70",
+                        "endOffsets": "855,919,1465,1533,1588,981,1042,1101,1167,1231,1292,1347,1400,1660"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,120,183,247,314,368,429,489,547,612,675,735,789,841",
+                        "endColumns": "64,62,63,66,53,60,59,57,64,62,59,53,51,70",
+                        "endOffsets": "115,178,242,309,363,424,484,542,607,670,730,784,836,907"
+                    }
+                }
+            ]
+        }
+    ]
+}

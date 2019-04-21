@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\DELL\\Desktop\\Desktop\\glucosio-android\\wear\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv-rSE\\values-sv-rSE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DELL\\Desktop\\Desktop\\glucosio-android\\wear\\src\\main\\res\\values-sv-rSE\\strings.xml",
+                    "from": {
+                        "startLines": "22,23,32,33,34,24,25,26,27,28,29,30,31,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "795,856,1384,1444,1509,916,977,1036,1095,1157,1219,1276,1332,1564",
+                        "endColumns": "59,58,58,63,53,59,57,57,60,60,55,54,50,78",
+                        "endOffsets": "850,910,1438,1503,1558,971,1030,1089,1151,1213,1270,1326,1378,1638"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,174,233,297,351,411,469,527,588,649,705,760,811",
+                        "endColumns": "59,58,58,63,53,59,57,57,60,60,55,54,50,78",
+                        "endOffsets": "110,169,228,292,346,406,464,522,583,644,700,755,806,885"
+                    }
+                }
+            ]
+        }
+    ]
+}

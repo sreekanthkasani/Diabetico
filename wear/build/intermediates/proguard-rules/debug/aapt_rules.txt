@@ -1,0 +1,72 @@
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_1_item.xml:2
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_2_item.xml:2
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_3_item.xml:2
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_4_item.xml:2
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_5_item.xml:2
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_6_item.xml:2
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_7_item.xml:2
+-keep class android.support.percent.PercentRelativeLayout { <init>(...); }
+
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\navigation_drawer_view.xml:8
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# Referenced at C:\Users\DELL\Desktop\Desktop\glucosio-android\wear\build\intermediates\manifests\full\debug\AndroidManifest.xml:48
+-keep class android.support.wearable.activity.ConfirmationActivity { <init>(...); }
+
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout-v21\dismiss_overlay.xml:14
+-keep class android.support.wearable.view.ActionPage { <init>(...); }
+
+# Referenced at C:\Users\DELL\Desktop\Desktop\glucosio-android\wear\src\main\res\layout\activity_main.xml:22
+-keep class android.support.wearable.view.BoxInsetLayout { <init>(...); }
+
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_1_item.xml:8
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_2_item.xml:9
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_2_item.xml:17
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_3_item.xml:9
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_3_item.xml:17
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_3_item.xml:23
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_4_item.xml:9
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_4_item.xml:17
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_4_item.xml:25
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_4_item.xml:31
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_5_item.xml:9
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_5_item.xml:18
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_5_item.xml:27
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_5_item.xml:35
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_5_item.xml:41
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_6_item.xml:9
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_6_item.xml:18
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_6_item.xml:26
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_6_item.xml:35
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_6_item.xml:44
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_6_item.xml:53
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_7_item.xml:9
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_7_item.xml:18
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_7_item.xml:27
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_7_item.xml:35
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_7_item.xml:41
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_7_item.xml:49
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\single_page_nav_drawer_7_item.xml:58
+-keep class android.support.wearable.view.CircledImageView { <init>(...); }
+
+# Referenced at C:\Users\DELL\Desktop\Desktop\glucosio-android\wear\src\main\res\layout\activity_main.xml:65
+-keep class android.support.wearable.view.DelayedConfirmationView { <init>(...); }
+
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\alert_dialog_wearable.xml:2
+-keep class android.support.wearable.view.ObservableScrollView { <init>(...); }
+
+# Referenced at C:\Users\DELL\Desktop\Desktop\glucosio-android\wear\src\main\res\layout\activity_main.xml:35
+-keep class android.support.wearable.view.WearableListView { <init>(...); }
+
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\navigation_drawer_view.xml:12
+-keep class android.support.wearable.view.drawer.PageIndicatorView { <init>(...); }
+
+# Referenced at C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\wearable-2.2.0.aar\a3d375658b508ea2b4a58791be3b17d5\res\layout\decomposition_config_activity.xml:6
+-keep class android.support.wearable.watchface.decompositionface.DecompositionConfigView { <init>(...); }
+
+# Referenced at C:\Users\DELL\Desktop\Desktop\glucosio-android\wear\build\intermediates\manifests\full\debug\AndroidManifest.xml:55
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+
+# Referenced at C:\Users\DELL\Desktop\Desktop\glucosio-android\wear\build\intermediates\manifests\full\debug\AndroidManifest.xml:39
+-keep class org.glucosio.android.MainActivity { <init>(...); }
+
